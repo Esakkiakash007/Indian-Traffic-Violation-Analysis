@@ -1,0 +1,1 @@
+CREATE DATABASE traffic_project;
