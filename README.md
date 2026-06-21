@@ -64,6 +64,12 @@ End-to-end data analytics project on Indian Traffic Violations using Python, SQL
 6. Violations by Gender (Pie Chart)
 7. Violations by Vehicle Type
 
+## 📈 Dashboard Preview
+![Overview](dashboard/traffic-1.png)
+![Driver & Vehicle Analysis](dashboard/traffic-2.png)
+![Enforcement & Safety Analysis](dashboard/traffic-3.png)
+![Key Insights](dashboard/traffic-4.png)
+
 ## 🔍 Key Insights
 - 🚨 Total Violations: 4,000
 - 💰 Average Fine: ₹2,530
@@ -76,6 +82,11 @@ End-to-end data analytics project on Indian Traffic Violations using Python, SQL
 
 ## 📁 Project Structure
 ```
+├── dashboard                  → Screenshots
+    ├── traffic-1.png              → Overview
+    ├── traffic-2.png              → Driver & Vehicle Analysis
+    ├── traffic-3.png              → Enforcement & Safety Analysis
+    ├── traffic-4.png              → Key Insights
 ├── final_cleaned.csv          → Cleaned Dataset
 ├── traffic_analysis.sql       → SQL Queries
 ├── traffic_analysis.py        → Python EDA Script
